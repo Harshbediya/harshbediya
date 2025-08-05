@@ -59,16 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh3112com&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh3112com&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
