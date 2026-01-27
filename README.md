@@ -1,78 +1,74 @@
-<h1 align="center">👋 Hi, I'm Harsh Bediya</h1>
+<h1 align="center">Hi, I'm Harsh Bediya 👋</h1>
 
 <p align="center">
-🎓 Final-year BTech CSE Student • 💻 Full Stack Developer • 🌍 Open Source Contributor (GSSoC'25) • 📍 Bhopal, India  
-<br />
-<a href="mailto:harshbedi3112@gmail.com">📧 harshbedi3112@gmail.com</a> • 
-<a href="https://www.linkedin.com/in/harsh-bediya-a1330426a">🌐 LinkedIn</a>
+Backend-Focused Full Stack Developer  
+<br/>
+<a href="mailto:harshbedi3112@gmail.com">harshbedi3112@gmail.com</a> • 
+<a href="https://www.linkedin.com/in/harsh-bediya-a1330426a">LinkedIn</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a passionate **Full Stack Developer** who enjoys building scalable and user-friendly apps using **React.js**, **Django**, and **REST APIs**.
+I am a final-year Computer Science student focused on building **scalable backend systems, REST APIs, and database-driven applications**.
 
-- 🎓 **B.Tech CSE (2022–2026)** — Technocrats Institute of Technology  
-- 💻 Full-stack: **React + Django + SQL**  
-- 💡 Skills: **C++**, **Python**, **JavaScript**  
-- 🌱 Learning: **DSA**, **System Design**, **Advanced React**  
-- 🤝 Open Source Contributor at **GirlScript Summer of Code 2025 (GSSoC'25)**  
-- 🚀 Open to internships, collaborations, and freelance work  
+I primarily work with **Django, Django REST Framework, React**, and have hands-on experience with **SQL databases, API integration, authentication systems, and modular project architecture**.
+
+I enjoy working on structured projects that follow clean code practices and real-world backend design patterns.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
-<div align="center">
+**Languages:** C++, C#, Python, JavaScript, SQL  
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-0052CC?style=flat&logo=api&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+**Backend:** Django, Django REST Framework, REST APIs, Authentication, MVC Architecture  
 
-</div>
+**Frontend:** React.js, HTML, CSS  
+
+**Databases:** MySQL, SQLite, MongoDB  
+
+**Tools:** Git, GitHub, Postman, VS Code, Debugging, OOP, Documentation
 
 ---
 
 ## 🌍 Open Source Contributions
 
-### 🟢 GirlScript Summer of Code 2025 (GSSoC'25) – Contributor  
-Actively contributed to multiple open-source repositories by:
+### GirlScript Summer of Code 2025 — Contributor
 
-- 🔧 Fixing UI/UX bugs in React projects  
-- ✨ Enhancing documentation and readability  
-- 🐛 Debugging issues & submitting PRs  
-- 🚀 Working on beginner-friendly and intermediate issues  
-- 🤝 Collaborating with maintainers & contributors  
-
-> GSSoC helped me improve collaboration, Git workflows, and real-world development skills.
+- Fixed UI/UX and functional issues in React-based repositories
+- Improved documentation and project structure
+- Worked with maintainers through pull requests and reviews
+- Followed Git workflows and issue tracking
 
 ---
 
 ## 💼 Projects
 
-### 🏥 Hospital Management System  
-**Tech:** Django + DRF, React.js, SQLite  
-- Appointment system, doctor listing, admin dashboard  
-- Secure login, validation, structured APIs  
-- Clean UI + custom About page  
+### 🏥 Hospital Management System — Django + React
+
+A role-based hospital workflow management system for Admin, Doctors, and Patients.
+
+**Key Features:**
+- REST APIs designed using Django REST Framework
+- Role-based authentication and authorization
+- Appointment scheduling and management workflow
+- Structured database models and validations
+- React frontend integrated with backend APIs
+- Modular architecture following MVC principles
 
 ---
 
-### 🎓 Student Freelancing Marketplace  
-**Tech:** React.js, HTML, CSS  
-- Platform for students to find freelance gigs  
-- Admin panel for job management  
-- React state/props handled for smooth workflows  
+### 🎓 Student Freelancing Marketplace — React
+
+A platform for students to discover and manage freelance opportunities.
+
+**Key Features:**
+- Component-based React architecture
+- Dynamic state and routing management
+- Admin panel for gig management
+- Responsive UI design
 
 ---
 
@@ -81,23 +77,11 @@ Actively contributed to multiple open-source repositories by:
 <div align="center">
   
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshBediya&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshBediya&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
-## 📫 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/harsh-bediya-a1330426a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harshbedi3112@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+Focused on building clean, scalable backend systems and meaningful web applications 🚀
 </p>
-
----
-
-<p align="center">✨ Thanks for visiting! Let's collaborate and build something meaningful 🚀</p>
