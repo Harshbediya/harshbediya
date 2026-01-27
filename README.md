@@ -9,7 +9,7 @@ Backend-Focused Full Stack Developer
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a final-year Computer Science student focused on building **scalable backend systems, REST APIs, and database-driven applications**.
 
@@ -44,7 +44,7 @@ I enjoy working on structured projects that follow clean code practices and real
 
 ---
 
-## 💼 Projects
+##  Projects
 
 ### 🏥 Hospital Management System — Django + React
 
