@@ -1,87 +1,73 @@
-<h1 align="center">Hi, I'm Harsh Bediya 👋</h1>
+<h1 align="center">Harsh Bediya</h1>
 
 <p align="center">
-Backend-Focused Full Stack Developer  
-<br/>
-<a href="mailto:harshbedi3112@gmail.com">harshbedi3112@gmail.com</a> • 
-<a href="https://www.linkedin.com/in/harsh-bediya-a1330426a">LinkedIn</a>
+Final-year B.Tech CS Student · Backend-focused Full Stack Developer<br/>
+Django · DRF · React · PostgreSQL · REST APIs
+</p>
+
+<p align="center">
+<a href="mailto:harshbedi3112@gmail.com">harshbedi3112@gmail.com</a> ·
+<a href="https://www.linkedin.com/in/harsh-bediya-a1330426a">LinkedIn</a> ·
+<a href="https://harshbediya.github.io/Personal-Protfolio/">Portfolio</a>
 </p>
 
 ---
 
-##  About Me
+## About
 
-I am a final-year Computer Science student focused on building **scalable backend systems, REST APIs, and database-driven applications**.
+Final-year Computer Science student building backend systems and full-stack web applications. My focus is on REST API design, authentication systems, and database-driven architecture using Django and React.
 
-I primarily work with **Django, Django REST Framework, React**, and have hands-on experience with **SQL databases, API integration, authentication systems, and modular project architecture**.
-
-I enjoy working on structured projects that follow clean code practices and real-world backend design patterns.
+Currently open to entry-level roles as a Software Developer, Python/Django Developer, or Full Stack Developer (remote, hybrid, or onsite).
 
 ---
 
-## 🛠 Technical Skills
+## Projects
 
-**Languages:** C++, C#, Python, JavaScript, SQL  
+### Travelworld — Full Stack Travel Community App
+React + Vite · Django REST Framework · PostgreSQL (Neon) · Deployed on Vercel + Render
 
-**Backend:** Django, Django REST Framework, REST APIs, Authentication, MVC Architecture  
+- JWT authentication with simplejwt
+- Cloudinary integration for image uploads
+- Real-time support via Django Channels + WebSockets
+- Full free-tier cloud deployment (Vercel + Render + Neon)
 
-**Frontend:** React.js, HTML, CSS  
-
-**Databases:** MySQL, SQLite, MongoDB  
-
-**Tools:** Git, GitHub, Postman, VS Code, Debugging, OOP, Documentation
-
----
-
-## 🌍 Open Source Contributions
-
-### GirlScript Summer of Code 2025 — Contributor
-
-- Fixed UI/UX and functional issues in React-based repositories
-- Improved documentation and project structure
-- Worked with maintainers through pull requests and reviews
-- Followed Git workflows and issue tracking
+🔗 [Live Demo](https://travel-community-inky.vercel.app/) · [GitHub](https://github.com/Harshbediya/Travel-community)
 
 ---
 
-##  Projects
+### Student Freelancing Marketplace — React
+Platform for students to discover and manage freelance opportunities
 
-### 🏥 Hospital Management System — Django + React
-
-A role-based hospital workflow management system for Admin, Doctors, and Patients.
-
-**Key Features:**
-- REST APIs designed using Django REST Framework
-- Role-based authentication and authorization
-- Appointment scheduling and management workflow
-- Structured database models and validations
-- React frontend integrated with backend APIs
-- Modular architecture following MVC principles
-
----
-
-### 🎓 Student Freelancing Marketplace — React
-
-A platform for students to discover and manage freelance opportunities.
-
-**Key Features:**
 - Component-based React architecture
-- Dynamic state and routing management
-- Admin panel for gig management
+- Admin panel for gig and application management
+- Dynamic routing and state management
 - Responsive UI design
 
+🔗 [GitHub](https://github.com/Harshbediya/freelance-website)
+
 ---
 
-## 📊 GitHub Stats
+## Skills
+
+| Area | Technologies |
+|---|---|
+| Backend | Python, Django, Django REST Framework, REST APIs, JWT Auth, WebSockets |
+| Frontend | React.js, JavaScript, HTML, CSS |
+| Databases | PostgreSQL, MySQL, SQLite, MongoDB |
+| Tools | Git, GitHub, Postman, VS Code, Cloudinary |
+| Other | C++, OOP, MVC Architecture, API Integration |
+
+---
+
+## Open Source
+
+**GirlScript Summer of Code 2025 — Contributor**
+Fixed UI/UX issues in React repositories, improved documentation, and contributed through pull requests following standard Git workflows.
+
+---
 
 <div align="center">
-  
+
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshBediya&show_icons=true&theme=tokyonight)
 
 </div>
-
----
-
-<p align="center">
-Focused on building clean, scalable backend systems and meaningful web applications 🚀
-</p>
