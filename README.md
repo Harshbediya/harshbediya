@@ -1,47 +1,68 @@
 <h1 align="center">Harsh Bediya</h1>
 
 <p align="center">
-Final-year B.Tech CS Student · Backend-focused Full Stack Developer<br/>
-Django · DRF · React · PostgreSQL · REST APIs
+  Final-year B.Tech CS Student · Full Stack Developer<br/>
+  Django · DRF · React · PostgreSQL · REST APIs
 </p>
 
 <p align="center">
-<a href="mailto:harshbedi3112@gmail.com">harshbedi3112@gmail.com</a> ·
-<a href="https://www.linkedin.com/in/harsh-bediya-a1330426a">LinkedIn</a> ·
-<a href="https://harshbediya.github.io/Personal-Protfolio/">Portfolio</a>
+  <a href="mailto:harshbedi3112@gmail.com">harshbedi3112@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/harsh-bediya-a1330426a">LinkedIn</a> ·
+  <a href="https://harshbediya.github.io/Personal-Portfolio/">Portfolio</a>
 </p>
 
 ---
 
 ## About
 
-Final-year Computer Science student building backend systems and full-stack web applications. My focus is on REST API design, authentication systems, and database-driven architecture using Django and React.
+Final-year Computer Science student who builds and ships full-stack web applications. I focus on REST API design, JWT authentication, database architecture, and end-to-end cloud deployment using Django and React.
 
-Currently open to entry-level roles as a Software Developer, Python/Django Developer, or Full Stack Developer (remote, hybrid, or onsite).
+Have taken projects from zero to production independently — handling backend, frontend, deployment, and debugging across the full stack.
+
+Currently open to entry-level roles as a **Software Developer**, **Python/Django Developer**, or **Full Stack Developer** (remote, hybrid, or onsite).
 
 ---
 
 ## Projects
 
 ### Travelworld — Full Stack Travel Community App
-React + Vite · Django REST Framework · PostgreSQL (Neon) · Deployed on Vercel + Render
+`React` `Django REST Framework` `PostgreSQL` `WebSockets` `Cloudinary` `Vercel` `Render`
 
-- JWT authentication with simplejwt
-- Cloudinary integration for image uploads
-- Real-time support via Django Channels + WebSockets
-- Full free-tier cloud deployment (Vercel + Render + Neon)
+- Built and deployed a full-stack social platform with JWT auth, protected routes, and role-based session management
+- Architected 15+ RESTful APIs with Cloudinary CDN for media and Django Channels for real-time WebSocket features
+- Managed production deployment on Vercel + Render + Neon PostgreSQL with WhiteNoise, Gunicorn, and CORS config from scratch
 
 🔗 [Live Demo](https://travel-community-inky.vercel.app/) · [GitHub](https://github.com/Harshbediya/Travel-community)
 
 ---
 
-### Student Freelancing Marketplace — React
-Platform for students to discover and manage freelance opportunities
+### NeetMentor — NEET Preparation Platform
+`Next.js` `React` `CSS` `Vercel`
 
-- Component-based React architecture
-- Admin panel for gig and application management
-- Dynamic routing and state management
-- Responsive UI design
+- Built a subject-wise NEET prep platform with study tracking across Physics, Chemistry, and Biology covering 180+ topics
+- Integrated AI-powered study scheduling, automated test analytics to flag weak areas, and a streak tracker for daily consistency
+- Implemented dark mode, responsive UI, and deployed on Vercel with SSR for fast page loads
+
+🔗 [Live Demo](https://neet-mentor.vercel.app/) · [GitHub](https://github.com/Harshbediya/NeetMentor)
+
+---
+
+### Hospital Management System
+`Django` `React` `SQLite` `JWT` `REST API`
+
+- Full-stack hospital platform with 3 user roles (patient, doctor, admin) — role-based access control, JWT auth, and appointment scheduling
+- RESTful APIs for patient records, appointments, and doctor profiles with Django ORM and server-side validation
+- Dynamic dashboards per role — patients book appointments, doctors manage schedules, admins oversee the system
+
+🔗 [GitHub](https://github.com/Harshbediya/Hospital-Management-System)
+
+---
+
+### Student Freelancing Marketplace
+`React` `JavaScript`
+
+- Component-based React platform for students to discover and manage freelance opportunities
+- Admin panel for gig and application management with dynamic routing and responsive UI
 
 🔗 [GitHub](https://github.com/Harshbediya/freelance-website)
 
@@ -51,23 +72,29 @@ Platform for students to discover and manage freelance opportunities
 
 | Area | Technologies |
 |---|---|
-| Backend | Python, Django, Django REST Framework, REST APIs, JWT Auth, WebSockets |
-| Frontend | React.js, JavaScript, HTML, CSS |
-| Databases | PostgreSQL, MySQL, SQLite, MongoDB |
-| Tools | Git, GitHub, Postman, VS Code, Cloudinary |
-| Other | C++, OOP, MVC Architecture, API Integration |
+| Languages | Python, JavaScript, C++ |
+| Backend | Django, Django REST Framework, JWT Authentication, WebSockets |
+| Frontend | React.js, Next.js, Vite, HTML5, CSS3, Bootstrap, Tailwind CSS |
+| Databases | PostgreSQL, SQLite, Django ORM |
+| Tools | Git, GitHub, Vercel, Render, Cloudinary, Postman |
+| Other | REST Architecture, MVC Pattern, OOP, Agile Development |
 
 ---
 
 ## Open Source
 
-**GirlScript Summer of Code 2025 — Contributor**
+**GirlScript Summer of Code 2025 (GSSoC'25) — Contributor**
+
 Fixed UI/UX issues in React repositories, improved documentation, and contributed through pull requests following standard Git workflows.
 
 ---
 
+## GitHub Stats
+
 <div align="center">
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshBediya&show_icons=true&theme=tokyonight)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshBediya&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshBediya&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
