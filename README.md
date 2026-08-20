@@ -1,18 +1,10 @@
-<h1 align="center">Harsh Bediya</h1>
-<p align="center">B.Tech CSE Graduate (2026) · Full Stack Developer</p>
+# Hi, I'm Harsh 👋
 
-<p align="center">
-  <a href="mailto:harshbedi3112@gmail.com">harshbedi3112@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/harsh-bediya-a1330426a">LinkedIn</a> ·
-  <a href="https://harshbediya.github.io/Personal-Portfolio/">Portfolio</a>
-</p>
+B.Tech CSE Graduate (2026) · Full Stack Developer
 
----
+Actively looking for my first full-time role — Full Stack / Software Developer. Currently learning Oracle SQL and exploring AI/GenAI (LangChain, RAG).
 
-Actively looking for my first full-time role — Full Stack / Software Developer.
-Currently learning Oracle SQL and exploring AI/GenAI (LangChain, RAG).
-
----
+📧 [harshbedi3112@gmail.com](mailto:harshbedi3112@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/harsh-bediya-a1330426a) · 🌐 [Portfolio](https://harshbediya.github.io/Personal-Portfolio/)
 
 ## Projects
 
@@ -21,6 +13,5 @@ Currently learning Oracle SQL and exploring AI/GenAI (LangChain, RAG).
 - **NeetMentor** — NEET prep platform · [Live](https://neet-mentor.vercel.app/) · [GitHub](https://github.com/Harshbediya/NeetMentor)
 - **Student Freelancing Marketplace** — [GitHub](https://github.com/Harshbediya/freelance-website)
 
----
-
-Let's connect: [LinkedIn](https://www.linkedin.com/in/harsh-bediya-a1330426a) · [Email](mailto:harshbedi3112@gmail.com)
+## 
+  Let's connect: [LinkedIn](https://www.linkedin.com/in/harsh-bediya-a1330426a) · [Email](mailto:harshbedi3112@gmail.com)
